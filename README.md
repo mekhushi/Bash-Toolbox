@@ -8,7 +8,7 @@ A curated collection of simple and practical Bash scripts to streamline common d
 Quickly find and kill a process running on a specific port [See How](https://github.com/mekhushi/Bash-Toolbox/blob/main/Kill-port/Readme.md)
 
 ### 🔖 Git Undo (`Git-Undo/gitUndo.sh`)
-SReverts the last Git operation safely using Git-Undo/gitUndo.sh. [See How](https://github.com/mekhushi/Bash-Toolbox/blob/main/Git-Undo/Readme.md)
+Reverts the last Git operation safely using Git-Undo/gitUndo.sh. [See How](https://github.com/mekhushi/Bash-Toolbox/blob/main/Git-Undo/Readme.md)
 
 ### 🔖 Network Pinger (`Network-Pinger/NetworkPinger.sh`)
 Continuously pings targets to detect network issues [See How](https://github.com/mekhushi/Bash-Toolbox/blob/main/Network-Pinger/readme.md)
